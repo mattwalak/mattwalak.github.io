@@ -1,0 +1,13 @@
+July 28, 2023 - Created file version 1.0
+
+Main data format:
+{
+    "fileVersion": Version number (String)
+    "dates": List of dates (Array of Date objects)
+}
+
+Date format:
+{
+    "name": Name of day (String),
+    "date": Date in mm/DD (String)
+}
