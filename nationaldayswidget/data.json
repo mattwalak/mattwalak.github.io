@@ -1,6 +1,6 @@
 [
     {
-        "fileVersion": "1.0"
+        "fileVersion": "1.0",
         "dates": [
             {
                 "name": "National JSON Day 1.0",
@@ -27,7 +27,7 @@
             {
                 "name": "National JSON Day 3.1",
                 "date": "07/29"
-            }
+            },
             
             {
                 "name": "National JSON Day 4.0",
